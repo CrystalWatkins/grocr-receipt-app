@@ -20,7 +20,7 @@ This is our second project for the GT Full Stack Flex Program. This project was 
 1. Clone the repo
 2. Open the index.html file
 
-[Heroku Link to Code](https://fathomless-sands-26873.herokuapp.com/)
+[Link to Website](https://fathomless-sands-26873.herokuapp.com/)
 
 [Link to Code](https://github.com/yoohooitstoo/grocr-receipt-app)
  
@@ -37,7 +37,7 @@ This is our second project for the GT Full Stack Flex Program. This project was 
 This project combined a lot of the things that we have learned in class. 
 It includes ....
 
-[Heroku Link to Code](https://fathomless-sands-26873.herokuapp.com/)
+[Link to Website](https://fathomless-sands-26873.herokuapp.com/)
 
 [Link to Code](https://github.com/yoohooitstoo/grocr-receipt-app).
  
